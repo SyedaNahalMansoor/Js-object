@@ -256,5 +256,4 @@ for (var i = 0; i < students.length; i++) {
     console.log("Name: " + students[i].name);
     console.log("Class: " + students[i].class);
     console.log("Fees: " + students[i].fees);
-    console.log("----------------------");
 }
